@@ -1,0 +1,18 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: assignment
+  datasource:
+    url: jdbc:mysql://localhost:3306/ASSESSMENT
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password:
+  security:
+    user:
+      name: admin
+      password: password
+redis:
+  primary:
+    host: 127.0.0.1
+    port: 6379

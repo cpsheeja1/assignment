@@ -1,0 +1,8 @@
+com/bitcoin/assignment/service/BasicService.class
+com/bitcoin/assignment/response/APIResponse.class
+com/bitcoin/assignment/controller/BasicController.class
+com/bitcoin/assignment/AssignmentApplication.class
+com/bitcoin/assignment/repository/UserRepository.class
+com/bitcoin/assignment/service/IBasicService.class
+com/bitcoin/assignment/config/SpringFoxConfig.class
+com/bitcoin/assignment/modal/Users.class
